@@ -1,4 +1,4 @@
-# Multi-Source Dashboard
+# Analytics Dashboard
 
 **Interactive Streamlit dashboard that visualizes data from CSV uploads, Snowflake databases, or REST APIs.**
 
