@@ -167,7 +167,7 @@ with st.sidebar:
 
 
 # Main content
-st.title(":material/dashboard: Multi-Source Dashboard")
+st.title(":material/dashboard: Analytics Dashboard")
 
 df = st.session_state.df
 
