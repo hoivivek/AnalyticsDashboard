@@ -1,6 +1,6 @@
 # Multi-Source Dashboard
 
-> **TLDR:** Interactive Streamlit dashboard that visualizes data from CSV uploads, Snowflake databases, or REST APIs.
+**Interactive Streamlit dashboard that visualizes data from CSV uploads, Snowflake databases, or REST APIs.**
 
 ## Features
 
